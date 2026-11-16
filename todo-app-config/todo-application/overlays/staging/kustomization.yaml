@@ -5,7 +5,7 @@ metadata:
 namespace: staging
 
 resources:
-  - ../../base
+  - ../todo-application/base
 
 patches:
   - path: patches/broadcaster-config.yaml
